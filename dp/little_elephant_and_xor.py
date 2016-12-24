@@ -1,4 +1,11 @@
-__author__ = 'joaquin'
+"""
+
+Problem name: LittleElephantAndXor
+Class: SRM 595, Division II, Level Three
+
+Description: https://community.topcoder.com/stat?c=problem_statement&pm=12623
+
+"""
 
 a, b, c = 0, 0, 0
 
